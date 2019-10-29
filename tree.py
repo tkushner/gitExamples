@@ -11,4 +11,3 @@ tree = []
 
 for i in range(10):
     tree.append(i)
-    tree.append(i+3)
