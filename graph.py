@@ -26,3 +26,6 @@ def generate_edges(graph):
             # if edge exists then append
             edges.append((node, neighbour))
     return edges
+
+
+print('wow this is wrong')
