@@ -8,3 +8,6 @@ from collections import defaultdict
 
 ## an example file to make a tree
 tree = []
+
+for i in range(10):
+    tree.append(i)
