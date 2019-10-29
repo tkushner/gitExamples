@@ -26,7 +26,3 @@ def generate_edges(graph):
             # if edge exists then append
             edges.append((node, neighbour))
     return edges
-
-
-print('this is a graph')
-print('again!!!!')
